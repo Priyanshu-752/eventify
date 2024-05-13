@@ -14,7 +14,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2024 Eventify. All Rights reserved.</p>
+        <p>2024 Eventify. All Rights reserved by Priyanshu Negi.</p>
       </div>
     </footer>
   )
